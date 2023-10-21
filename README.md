@@ -1,2 +1,2 @@
-# CESI-Projet-Algo-Avanc-e-2022
+# CESI-Projet-Algo-Avancée-2022
 Projet scolaire A3 - Algorithmique avancée (Python)
